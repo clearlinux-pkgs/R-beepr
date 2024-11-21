@@ -7,7 +7,7 @@
 #
 Name     : R-beepr
 Version  : 2.0
-Release  : 1
+Release  : 2
 URL      : https://ftp.osuosl.org/pub/cran//src/contrib/beepr_2.0.tar.gz
 Source0  : https://ftp.osuosl.org/pub/cran//src/contrib/beepr_2.0.tar.gz
 Summary  : Easily Play Notification Sounds on any Platform
