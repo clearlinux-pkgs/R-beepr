@@ -7,7 +7,7 @@
 #
 Name     : R-beepr
 Version  : 2.0
-Release  : 2
+Release  : 3
 URL      : https://ftp.osuosl.org/pub/cran//src/contrib/beepr_2.0.tar.gz
 Source0  : https://ftp.osuosl.org/pub/cran//src/contrib/beepr_2.0.tar.gz
 Summary  : Easily Play Notification Sounds on any Platform
@@ -33,10 +33,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1732148777
+export SOURCE_DATE_EPOCH=1732149355
 
 %install
-export SOURCE_DATE_EPOCH=1732148777
+export SOURCE_DATE_EPOCH=1732149355
 rm -rf %{buildroot}
 LANG=C.UTF-8
 CFLAGS="$CLEAR_INTERMEDIATE_CFLAGS -O3 -flto -fno-semantic-interposition "
